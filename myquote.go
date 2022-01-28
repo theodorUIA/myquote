@@ -1,4 +1,4 @@
-package myqoute
+package myquote
 
 import (
 	"math/rand"
